@@ -4,7 +4,7 @@
 
 A React app with a single Web3 instance held globally using React Context.
 
-![Screenshot](./Screenshop_4.jpg)
+![Screenshot](./Screenshot_4.jpg)
 
 ## 2 | Getting Started
 
